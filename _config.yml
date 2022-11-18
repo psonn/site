@@ -32,6 +32,9 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
+
+languages: ["nl", "en"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
