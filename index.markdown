@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<img align="left" width="300" height="300" src="peter.jpg" style="margin:10px" alt="Peter Sonneveld"> Peter Sonneveld is an experienced strategic advisor in the communications and policy fields, with experience working in national and local politics, broadcast journalism, and the NGO sector. 
+<img align="left" width="300" height="300" src="peter.jpg" style="margin:10px" alt="Peter Sonneveld"> Peter Sonneveld is an experienced strategic advisor in the communications and policy fields, with experience working in national and local politics, broadcast journalism, and the NGO sector. Please feel free to browse my website or contact me for any enquiries.
